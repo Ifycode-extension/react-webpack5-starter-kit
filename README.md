@@ -1,3 +1,19 @@
+# Auth Guide (React) App
+
+App still in progress...
+
+Useful webpack resources: 
+- [@code-collabo/styles-library repo](https://github.com/code-collabo/styles-library)
+- [Setup react with webpack and babel](https://medium.com/age-of-awareness/setup-react-with-webpack-and-babel-5114a14a47e9)
+- [How to setup React with Webpack](https://levelup.gitconnected.com/how-to-setup-a-react-application-with-webpack-f781b5c4a4ab)
+- [Updating babel-eslint to @babel/eslint-parser for React apps](https://tjaddison.com/blog/2021/03/updating-babel-eslint-to-babeleslint-parser-for-react-apps/)
+
+Dev server:
+[Webpack devServer documentation](https://webpack.js.org/configuration/dev-server/#devserveropen)
+
+
+<!--
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-->
