@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 function App() {
   return (
-    <h1>Auth Guide</h1>
+    <h1>LESS react starter kit</h1>
   );
 }
 

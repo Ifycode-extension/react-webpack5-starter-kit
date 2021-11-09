@@ -1,8 +1,8 @@
 {
-  "short_name": "Auth Guide App",
+  "short_name": "LESS react kit",
   "name": "",
   "icons": [
-    
+
   ],
   "start_url": ".",
   "display": "standalone",
