@@ -7,7 +7,7 @@ This starter kit uses the following technologies/dependencies:
 - Babel 7
 - Eslint
 
-**Note:** You can checkout the [less config create react app](https://github.com/Ifycode/less-config-create-react-app) instead, if you prefer to use (less preprocessor with) create react app.
+**Note:** You can checkout [Create React App + LESS config](https://github.com/Ifycode/less-config-create-react-app) instead, if you prefer to use (less preprocessor with) create react app.
 
 ## Install dependencies
 
