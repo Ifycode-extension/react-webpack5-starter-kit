@@ -1,7 +1,8 @@
 # React starter kit (LESS)
 
 ## Development setup
-This starter kit uses the following technologies:
+This starter kit uses the following technologies/dependencies:
+- React 17
 - LESS
 - Webpack 5
 - Babel 7
