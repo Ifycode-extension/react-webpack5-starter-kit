@@ -19,7 +19,7 @@ npm install
 npm start
 ````
 
-The application will open and run at http://localhost:5050/. Modify starter kit as desired.
+The application will open and run at http://localhost:5050/. Modify port or entire starter kit as desired.
 
 
 
