@@ -9,13 +9,17 @@ This starter kit uses the following technologies:
 
 ## Install dependencies
 
-Install dependencies with:
-
 ````
 npm install
 ````
 
-Modify starter kit as needed
+## Run application
+
+````
+npm start
+````
+
+The application will open and run at http://localhost:5050/. Modify starter kit as desired.
 
 
 
