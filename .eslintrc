@@ -1,36 +1,36 @@
 {
-    "root": true,
-    "parser": "@babel/eslint-parser",
-    "extends": [
-      "eslint:recommended",
-      "plugin:react/recommended",
-      "plugin:import/warnings",
-      "plugin:import/warnings"
-    ],
-    "parserOptions": {
-      "ecmaVersion": 7,
-      "sourceType": "module",
-      "babelOptions": {
-        "presets": ["@babel/preset-react"]
-     }
-    },
-    "env": {
-      "browser": true,
-      "node": true
-    },
-    "ignorePatterns": [],
-    "rules": {
-      "no-console": 1,
-      "import/no-named-as-default": 0,
-      "import/no-named-as-default-member": 0
-    },
-    "settings": {
-        "import/parsers": {
-          "espree": [
-            ".js",
-            ".jsx"
-          ]
-        }
-      }
+  "root": true,
+  "parser": "@babel/eslint-parser",
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:import/warnings",
+    "plugin:import/warnings"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "ignorePatterns": [],
+  "rules": {
+    "no-console": 1,
+    "import/no-named-as-default": 0,
+    "import/no-named-as-default-member": 0
+  },
+  "settings": {
+    "import/parsers": {
+      "espree": [
+        ".js",
+        ".jsx"
+      ]
+    }
   }
+}
   
